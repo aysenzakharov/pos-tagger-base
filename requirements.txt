@@ -2,5 +2,5 @@ spacy==3.8.2
 fastapi==0.115.4
 pydantic==2.9.2
 uvicorn==0.32.0
+numpy==1.25
 fasttext==0.9.3
-
